@@ -4,7 +4,7 @@ As a passionate Backend Developer with a strong foundation in computer science, 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/danushkalnkdin" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="danushkalnkdin" /></a>
+<a href="https://linkedin.com/in/danushkalnkdin" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="danushkalnkdin" width =45px height = 45px></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
