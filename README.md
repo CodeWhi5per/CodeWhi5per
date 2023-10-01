@@ -12,3 +12,9 @@ As a passionate Backend Developer with a strong foundation in computer science, 
     <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,py,mysql,photoshop,illustrator,postman,cpp,react,github,git,idea,selenium,figma,mongodb,typescript,kubernetes,docker,jenkins&perline=11" />
   </a>
 </p>
+<br>
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codewhi5per&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewhi5per&theme=tokyonight) |
+| --- | --- |
+
+
